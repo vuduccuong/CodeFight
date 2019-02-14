@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManySundays", "HowManySundays\HowManySundays.csproj", "{FFE783CD-813C-4367-9EF2-3FF2F5BC19C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipByValue", "SlipByValue\SlipByValue.csproj", "{E3C6FAEF-55FC-4DCA-8B8D-1BE8DFBA1F26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFE783CD-813C-4367-9EF2-3FF2F5BC19C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE783CD-813C-4367-9EF2-3FF2F5BC19C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE783CD-813C-4367-9EF2-3FF2F5BC19C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C6FAEF-55FC-4DCA-8B8D-1BE8DFBA1F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C6FAEF-55FC-4DCA-8B8D-1BE8DFBA1F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C6FAEF-55FC-4DCA-8B8D-1BE8DFBA1F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C6FAEF-55FC-4DCA-8B8D-1BE8DFBA1F26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
