@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse In Parentheses", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternating Sums", "Alternating Sums\Alternating Sums.csproj", "{6AFD622E-0CE2-43A8-9379-61BB04A9B841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Boder", "Add Boder\Add Boder.csproj", "{8899C52F-92C3-4FDF-BB8A-98CE9E0EEEF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6AFD622E-0CE2-43A8-9379-61BB04A9B841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AFD622E-0CE2-43A8-9379-61BB04A9B841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AFD622E-0CE2-43A8-9379-61BB04A9B841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8899C52F-92C3-4FDF-BB8A-98CE9E0EEEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8899C52F-92C3-4FDF-BB8A-98CE9E0EEEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8899C52F-92C3-4FDF-BB8A-98CE9E0EEEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8899C52F-92C3-4FDF-BB8A-98CE9E0EEEF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
