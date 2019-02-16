@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharecterCount", "Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isLuckyNumber", "isLuckyNumber\isLuckyNumber.csproj", "{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort by Hight", "Sort by Hight\Sort by Hight.csproj", "{DBEE1402-56EC-441E-A599-C85C8A02936A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEE1402-56EC-441E-A599-C85C8A02936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEE1402-56EC-441E-A599-C85C8A02936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEE1402-56EC-441E-A599-C85C8A02936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEE1402-56EC-441E-A599-C85C8A02936A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
