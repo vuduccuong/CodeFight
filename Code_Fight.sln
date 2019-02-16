@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipByValue", "SlipByValue\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharecterCount", "CommonCharecterCount\CommonCharecterCount.csproj", "{691F5D77-C133-4A7E-8E6D-532152179738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isLuckyNumber", "isLuckyNumber\isLuckyNumber.csproj", "{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{691F5D77-C133-4A7E-8E6D-532152179738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691F5D77-C133-4A7E-8E6D-532152179738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691F5D77-C133-4A7E-8E6D-532152179738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC6D296-6D89-4CB0-90E8-FD3C5D14B9CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
