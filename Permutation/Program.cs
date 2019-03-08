@@ -43,6 +43,8 @@ namespace Permutation
             }
             Console.Write("]");
 
+
+
             Console.ReadLine();
         }
 
